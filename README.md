@@ -2,7 +2,7 @@
 Intunewin right click tool: Extract content of intunewin file with a right-click on it
 
 > *View the full blog post here for Dell*
-http://www.systanddeploy.com/2020/10/manage-lenovo-bios-settings-with.html
+http://www.systanddeploy.com/2020/11/intunewin-right-click-tool-extract.html
 
 **How to implement ?**
 - Download the ZIP
