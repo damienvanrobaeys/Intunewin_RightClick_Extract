@@ -1,7 +1,7 @@
 # Intunewin RightClick Extract
 Intunewin right click tool: Extract content of intunewin file with a right-click on it
 
-> *View the full blog post here for Dell*
+> *View the full blog post here*
 http://www.systanddeploy.com/2020/11/intunewin-right-click-tool-extract.html
 
 **How to implement ?**
